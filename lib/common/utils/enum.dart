@@ -1,0 +1,1 @@
+enum ToastType { Success, Error }
